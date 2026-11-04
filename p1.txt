@@ -1,2 +1,4 @@
 welcome to jnnce
 madified the github
+alterd in gitbash
+
